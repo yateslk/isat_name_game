@@ -1,0 +1,19 @@
+{
+  "name": "isat_name_game",
+  "version": "1.0.0",
+  "description": "An app to help learn names by associating them with faces",
+  "main": "jasmine",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yateslk/isat_name_game.git"
+  },
+  "author": "Laura Yates <yateslk@dukes.jmu.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yateslk/isat_name_game/issues"
+  },
+  "homepage": "https://github.com/yateslk/isat_name_game#readme"
+}
